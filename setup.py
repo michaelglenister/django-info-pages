@@ -30,7 +30,7 @@ setup(
         'nose',
         'django-autocomplete-light==2.3.3',
         'django-file-archive==0.0.2',
-        'mysociety-django-pagination==1.0.8',
+        'mysociety-django-pagination>=1.0.8',
         'django-slug-helpers>=0.0.3',
         'six==1.10.0'
     ],
